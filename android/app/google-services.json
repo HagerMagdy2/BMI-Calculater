@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400811895859",
+    "project_id": "buy-it-1deba",
+    "storage_bucket": "buy-it-1deba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400811895859:android:e4bb1885bb31f9c6914746",
+        "android_client_info": {
+          "package_name": "com.example.first_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQjrToPb7tTz1d9X11EJJPUA6M2moIVuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
